@@ -22,16 +22,16 @@ A quantitative finance project analyzing the risk and performance of a FAANG (Fa
 ## Visualizations
 
 - **Monthly Returns**: Compares monthly returns across FAANG stocks, the portfolio, and SPX.  
-  ![Monthly Returns](monthly_returns.png)
+  ![Monthly Returns](Monthly_Returns_Comparisons.png)
 
 - **Standard Deviation**: Shows volatility for FAANG stocks and SPX.  
-  ![Standard Deviation](std_dev_chart.png)
+  ![Standard Deviation](Standard_Deviations.png)
 
 - **Treynor Ratio**: Displays risk-adjusted performance (return per unit of systematic risk).  
-  ![Treynor Ratio](treynor_ratio.png)
+  ![Treynor Ratio](Treynor_Ratio.png)
 
 - **Value at Risk (VaR)**: Highlights downside risk at 95% and 99% confidence levels.  
-  ![Value at Risk](var_chart.png)
+  ![Value at Risk](Value_at_Risk.png)
 
 ## Skills Demonstrated
 
