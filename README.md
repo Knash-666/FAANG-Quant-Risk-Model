@@ -10,12 +10,12 @@ A quantitative finance project analyzing the risk and performance of a FAANG (Fa
 
 ## File
 
-- [`FAANG_Risk_Model.xlsx`](./FAANG_Risk_Model.xlsx): Excel file containing daily price data, calculated metrics, and visualizations.
+- [`FAANG Risk Model.xlsx`](./FAANG_Risk_Model.xlsx): Excel file containing daily price data, calculated metrics, and visualizations.
 
 ## Key Findings
 
 1. NFLX outperforms with the highest monthly return (3.32%) and avg daily return (0.11%), but also has the highest risk (Std Dev: 12.06%, VaR 99%: -32.86%).
-2. GOOG has the lowest monthly return (1.46%) and risk-adjusted performance (Treynor: 1.06%), but also the lowest volatility (Std Dev: 6.80%).
+2. GOOG has the lowest monthly return (1.46%) and risk-adjusted performance (Treynor: 1.06%), but also the lowest volatility (Std Dev: 6.80%) among FAANG stocks.
 3. The FAANG Portfolio (Monthly Return: 2.36%, Treynor: 1.67%) outperforms SPX (0.86%) with moderate systematic risk (Beta: 1.30).
 4. NFLX and AMZN show high market sensitivity (Beta: 1.49 and 1.34), while AAPL is the least sensitive (Beta: 1.19) among FAANG stocks.
 
