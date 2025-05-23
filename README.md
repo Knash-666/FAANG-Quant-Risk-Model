@@ -22,7 +22,7 @@ A quantitative finance project analyzing the risk and performance of a FAANG (Fa
 ## Visualizations
 
 - **Monthly Returns**: Compares monthly returns across FAANG stocks, the portfolio, and SPX.  
-  ![Monthly Returns Comparison](Monthly_Returns_Comparisons.png)
+  ![Monthly Returns Comparison](Monthly_Returns_Comparison.png)
 
 - **Standard Deviation**: Shows volatility for FAANG stocks and SPX.  
   ![Standard Deviation](Standard_Deviations.png)
