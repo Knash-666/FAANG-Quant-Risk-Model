@@ -53,7 +53,7 @@ The project includes visualizations to illustrate key metrics, created using Exc
   ![Value at Risk](Value_at_Risk.png)
 
 - **Beta**: Bar chart comparing market sensitivity (Beta) of FAANG stocks, the portfolio, and SPX.  
-  ![Beta Comparison](Beta_Comparison.png)
+  ![Beta](Beta.png)
 
 > **Note**: Visualization files are placeholders. Ensure they are uploaded to the repository and linked correctly.
 
